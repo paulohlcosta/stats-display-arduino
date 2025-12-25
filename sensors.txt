@@ -1,0 +1,76 @@
+
+Hardware: Intel X99
+
+Hardware: Intel Xeon E5-2650 v3
+  Sensor: CPU Core #1 | Tipo: Load | Valor: 6.914889812469482
+  Sensor: CPU Core #2 | Tipo: Load | Valor: 4.8215508460998535
+  Sensor: CPU Core #3 | Tipo: Load | Valor: 3.208649158477783
+  Sensor: CPU Core #4 | Tipo: Load | Valor: 2.6595711708068848
+  Sensor: CPU Core #5 | Tipo: Load | Valor: 5.319148063659668
+  Sensor: CPU Core #6 | Tipo: Load | Valor: 6.394415855407715
+  Sensor: CPU Core #7 | Tipo: Load | Valor: 12.765955924987793
+  Sensor: CPU Core #8 | Tipo: Load | Valor: 9.042549133300781
+  Sensor: CPU Core #9 | Tipo: Load | Valor: 6.914889812469482
+  Sensor: CPU Core #10 | Tipo: Load | Valor: 13.297873497009277
+  Sensor: CPU Total | Tipo: Load | Valor: 7.133942604064941
+  Sensor: CPU Core #1 | Tipo: Temperature | Valor: 34.0
+  Sensor: CPU Core #2 | Tipo: Temperature | Valor: 32.0
+  Sensor: CPU Core #3 | Tipo: Temperature | Valor: 36.0
+  Sensor: CPU Core #4 | Tipo: Temperature | Valor: 33.0
+  Sensor: CPU Core #5 | Tipo: Temperature | Valor: 33.0
+  Sensor: CPU Core #6 | Tipo: Temperature | Valor: 35.0
+  Sensor: CPU Core #7 | Tipo: Temperature | Valor: 36.0
+  Sensor: CPU Core #8 | Tipo: Temperature | Valor: 32.0
+  Sensor: CPU Core #9 | Tipo: Temperature | Valor: 33.0
+  Sensor: CPU Core #10 | Tipo: Temperature | Valor: 35.0
+  Sensor: CPU Package | Tipo: Temperature | Valor: 40.0
+  Sensor: CPU Core #1 | Tipo: Clock | Valor: 1197.22802734375
+  Sensor: CPU Core #2 | Tipo: Clock | Valor: 1197.22802734375
+  Sensor: CPU Core #3 | Tipo: Clock | Valor: 1197.22802734375
+  Sensor: CPU Core #4 | Tipo: Clock | Valor: 1197.22802734375
+  Sensor: CPU Core #5 | Tipo: Clock | Valor: 1197.22802734375
+  Sensor: CPU Core #6 | Tipo: Clock | Valor: 1197.22802734375
+  Sensor: CPU Core #7 | Tipo: Clock | Valor: 1197.22802734375
+  Sensor: CPU Core #8 | Tipo: Clock | Valor: 1197.22802734375
+  Sensor: CPU Core #9 | Tipo: Clock | Valor: 1197.22802734375
+  Sensor: CPU Core #10 | Tipo: Clock | Valor: 1197.22802734375
+  Sensor: CPU Package | Tipo: Power | Valor: 28.073524475097656
+  Sensor: CPU Cores | Tipo: Power | Valor: 0.0
+  Sensor: CPU DRAM | Tipo: Power | Valor: 0.0
+  Sensor: Bus Speed | Tipo: Clock | Valor: 99.76900482177734
+
+Hardware: Generic Memory
+  Sensor: Memory | Tipo: Load | Valor: 22.167648315429688
+  Sensor: Used Memory | Tipo: Data | Valor: 3.5259666442871094
+  Sensor: Available Memory | Tipo: Data | Valor: 12.37994384765625
+
+Hardware: NVIDIA NVIDIA GeForce RTX 2060
+  Sensor: GPU Core | Tipo: Temperature | Valor: 34.0
+  Sensor: GPU Core | Tipo: Clock | Valor: 300.0
+  Sensor: GPU Memory | Tipo: Clock | Valor: 405.0000305175781
+  Sensor: GPU Shader | Tipo: Clock | Valor: 0.0
+  Sensor: GPU Core | Tipo: Load | Valor: 3.0
+  Sensor: GPU Frame Buffer | Tipo: Load | Valor: 6.0
+  Sensor: GPU Video Engine | Tipo: Load | Valor: 0.0
+  Sensor: GPU Bus Interface | Tipo: Load | Valor: 0.0
+  Sensor: GPU Fan | Tipo: Control | Valor: 33.0
+  Sensor: GPU | Tipo: Fan | Valor: 999.0
+  Sensor: GPU Memory Total | Tipo: SmallData | Valor: 6144.0
+  Sensor: GPU Memory Used | Tipo: SmallData | Valor: 494.9609375
+  Sensor: GPU Memory Free | Tipo: SmallData | Valor: 5649.0390625
+  Sensor: GPU Memory | Tipo: Load | Valor: 8.056004524230957
+  Sensor: GPU Power | Tipo: Power | Valor: 14.816000938415527
+  Sensor: GPU PCIE Rx | Tipo: Throughput | Valor: 3.0986328125
+  Sensor: GPU PCIE Tx | Tipo: Throughput | Valor: 0.4765625
+
+Hardware: SSD
+  Sensor: Temperature | Tipo: Temperature | Valor: 40.0
+  Sensor: Used Space | Tipo: Load | Valor: 74.99908447265625
+
+Hardware: PUSKILL 120GB
+  Sensor: Temperature | Tipo: Temperature | Valor: 40.0
+  Sensor: Used Space | Tipo: Load | Valor: 75.01785278320312
+
+Hardware: TOSHIBA MQ01ACF050
+  Sensor: Temperature | Tipo: Temperature | Valor: 32.0
+  Sensor: Used Space | Tipo: Load | Valor: 62.554954528808594
