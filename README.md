@@ -5,6 +5,8 @@ Show PC temperature and usage in a small OLED or TFT display using Arduino and O
 
 A custom hardware monitoring solution that displays real-time CPU/GPU temperatures and usage from your Windows PC onto an external OLED or TFT screen connected via Arduino.
 
+![image3](images/image3.jpg)
+
 ---
 
 ## 🚀 Features
@@ -27,6 +29,8 @@ A custom hardware monitoring solution that displays real-time CPU/GPU temperatur
 1. **Windows Side (Python):** A script runs in the background, communicating with the OpenHardwareMonitor API. It gathers the sensor data and sends it through the **Serial Port (USB)** to the Arduino.
 2. **Arduino Side:** The microcontroller receives the data string, parses it, and displays it on the screen.
 
+
+![image1](images/image1.jpg)
 ---
 
 ## 🔧 Setup & Customization
@@ -48,6 +52,9 @@ If the `.exe` doesn't match your sensor IDs, you can run the source code:
 * Open the `.ino` file in the Arduino IDE.
 * Install required libraries (e.g., `Adafruit_SSD1306`).
 * Upload the code to your board.
+
+
+![image2](images/image2.jpg)
 
 ---
 
