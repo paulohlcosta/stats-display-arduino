@@ -33,6 +33,7 @@ A custom hardware monitoring solution that displays real-time CPU/GPU temperatur
 
 ### 1. Identify your Sensors
 Every PC has a different hardware configuration. To ensure you are tracking the right components:
+* Get the OpenHardwareMonitor DLL file in the same folder: OpenHardwareMonitorLib.dll
 * Run the script (or `.exe`) as **Administrator**.
 * A file named `sensors.txt` will be automatically generated in the root folder.
 * Open this file to find the exact names or IDs of your CPU/GPU sensors.
@@ -48,6 +49,15 @@ If the `.exe` doesn't match your sensor IDs, you can run the source code:
 * Install required libraries (e.g., `Adafruit_SSD1306`).
 * Upload the code to your board.
 
+---
+
+## 📦 Dependencies & Credits
+
+This project relies on the following third-party software:
+
+* **[OpenHardwareMonitor](https://openhardwaremonitor.org/):** A free open-source software that monitors temperature sensors, fan speeds, voltages, load and clock speeds of a computer. 
+    * *Note: OpenHardwareMonitor DLL must be available for this program to work.*
+  
 ---
 
 ## ⚠️ Important Notes
